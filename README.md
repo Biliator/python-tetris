@@ -1,2 +1,17 @@
 # python-tetris
-Simple Pytho Tetris game
+
+Simple Python Tetris game
+
+## 📚 Introduction
+
+### Controls
+
+* `arrow down` to speed up fall
+* `arrow up` to rotate object 
+
+## ⚠️ Error and bugs
+* there is a bug where lines are not deleting itself
+
+## ⚖️ License
+
+See [LICENSE](LICENSE).
