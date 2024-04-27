@@ -11,7 +11,3 @@ Simple Python Tetris game
 
 ## ⚠️ Error and bugs
 * there is a bug where lines are not deleting itself
-
-## ⚖️ License
-
-See [LICENSE](LICENSE).
